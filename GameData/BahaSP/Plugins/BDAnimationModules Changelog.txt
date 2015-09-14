@@ -1,0 +1,40 @@
+v0.5.2
+- Removed debug labels from BDAdjustableLandingGear
+
+v0.5.1
+- Fixed BDAdjustableLandingGear bug:
+-- changed animation handling to work with FSwheel better (fixed motor bug)
+
+
+v0.5
+- Added BDAdjustableLandingGear
+- Added BDModuleLookAtConstraint
+
+v0.4.1
+- 0.25 recompile
+-fixed AnimatedEngines heat & dV measurements (DREC, KER, MechJeb
+compatibility)
+
+v0.4
+-0.24.2 update
+-AnimatedRCS stays retracted if particular RCS thruster is disabled
+-Removed Looped Kethane converter (sorry!)
+-Animated containers update in editor
+-Fixed stuttering bug in AnimatedEngine
+-AnimatedThrusts's disableGimbalToggle combines multiple gimbals into one button and action group
+-Added MouseAimLight
+
+v0.3
+-Bugfixes <-fail obviously
+
+v0.2 
+-Animated Engine: added "WaitForAnimation"
+-Deployable RCS
+-GenericLoopAnimation
+-BDEngineCase
+-AnimatedThrust
+
+v0.1
+-AnimatedEngine
+-AnimatedContainer
+-LoopedKConverterAnimation

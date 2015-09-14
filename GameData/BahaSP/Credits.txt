@@ -1,0 +1,2 @@
+Credit to Snjo for the original FSWheel and related classes.
+https://github.com/snjo/Firespitter

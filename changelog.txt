@@ -1,0 +1,73 @@
+v0.1.9
+------
+- Updated ISFuelSwitch plugin
+- Updated to latest CRP version
+- Update to fuel switch patch
+
+v0.1.8
+------
+- Updated bundled MM, ISFuelSwitch plugins
+- Fixed Odin offset smoke
+- Updated a few thermal values for 1.04
+- Rewrite of tank fuel switching patch for better balance, courtesy of several forumgoers
+- ISRU can now produce LH2 and LH2+Ox mixes
+
+v0.1.7
+------
+- Fixed LF/O/MP tank patch
+- New MFT patch from funk
+- Fixed dry mass in tank patch not adjusting. 
+
+v0.1.6
+------
+- Updated included ModuleManager to 2.6.5
+- Updated included InterstellarFuelSwitch to 1.7 (fixes a couple bugs)
+- Added a patch for EngineLight that will tweak some colours on some engines
+- Fixed fuel switch patch for stock tanks to give much more logical ratios
+- Fuel switch patch now doesn't target parts with integral engines
+- Fuel switch patch functions on LF/O/MP tanks too (preserves the MP)
+- Fuel switch patch also targets LH2 orbital tanks from NFP 0.5.0+, adds ability to load LH2/OX and OX
+- Minor tweaks to cost of most engines
+- Included patches for ModularFuelTanks and ProceduralParts
+- Adjusted thrust/isp of the Tunguska to move it into a similar slot as the Skipper
+- Adjusted mass/isp of the Volcano to make it a little less overpowered
+- Added mipmaps to all .dds textures
+- Chelyabinsk now starts retracted and extends when staged
+
+v0.1.5
+------
+- Fixed LFO patch targeting wrong 1.25m engines
+- Fixed tank patch targeting LF/O/MP tanks, which it shouldn't have
+- Updated to the latest version of InterstellarFuelSwitch
+
+v0.1.4
+------
+- Fixed tank cost calculations
+- Added optional patch to convert engines to use LFO at cost of 20s of Isp
+
+v0.1.3
+------
+- Fixed engine thrusts for KSP 1.01
+- Actually updated included ModuleManager to 2.6.2
+- Removed Firespitter, replaced with InterstellarFuelSwitch
+- Fixed missing smoke trench FX
+- Increased atmospheric performance of lift engines
+- Added CTT 2.0 support
+
+v0.1.2
+------
+- Updated included ModuleManager to 2.6.2
+- Fixed Volcano's heat generation and thrust numbers being switched
+- Increased atmospheric engine thrusts by ~5%
+- Increased Isps slightly across the board (10s)
+- Fixed fuel switch patch leaving stock fuels in the tank on launch
+- Fixed lower stage 1.25m engine and both 3.75m engines being assigned to a non-extant tech node
+- Removed extra tga textures for 3.75m engines
+
+v0.1.1
+------
+- Bundled CRP was missing
+
+v0.1.0
+------
+- Initial Release
