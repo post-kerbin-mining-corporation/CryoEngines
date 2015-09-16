@@ -15,6 +15,7 @@ Required:
 
 Optional
 - ModuleManager (v2.6.5)
+- Community Tech Tree (v2.0+)
 
 ============
 INSTALLATION
