@@ -1,3 +1,13 @@
+v0.1.10
+------
+- Updated ISFuelSwitch plugin to 1.16
+- Updated to latest CRP version (0.4.4)
+- Updated ModuleManager version (2.6.6)
+- Fixed a capitalization error in CryoEnginesLFO patch
+- Fixed MFT patch to be mutually exclusive with RealFuels
+- Added new versions of all engines that lack the support ring around the top. Toggle in the editor.
+- Added new optional patch: CryoEnginesSurfaceAttach, which allows all engines to be surface attached
+
 v0.1.9
 ------
 - Updated ISFuelSwitch plugin
@@ -16,7 +26,7 @@ v0.1.7
 ------
 - Fixed LF/O/MP tank patch
 - New MFT patch from funk
-- Fixed dry mass in tank patch not adjusting. 
+- Fixed dry mass in tank patch not adjusting.
 
 v0.1.6
 ------
