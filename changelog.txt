@@ -1,3 +1,9 @@
+v0.1.11
+-------
+- Updated ISFuelSwitch plugin to 1.18
+- Updated to latest CRP version (0.4.7)
+- Updated ModuleManager version (2.6.6)
+
 v0.1.10
 ------
 - Updated ISFuelSwitch plugin to 1.16
