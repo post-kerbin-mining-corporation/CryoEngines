@@ -1,5 +1,5 @@
 =========================
-CRYOGENIC ENGINES v0.1.10
+CRYOGENIC ENGINES v0.1.11
 =========================
 
 This is a pack with several high efficiency engines that run on Liquid Hydrogen and Oxidizer. They tend to be more expensive and have less thrust than their LF/O counterparts. Also included are patches that allow all stock fuel tanks to contain the appropriate resources.
@@ -10,11 +10,11 @@ DEPENDENCIES
 
 Required:
 - BDAnimationModules (v0.6.1)
-- InterstellarFuelSwitch (v1.16)
-- Community Resource Pack (0.4.4)
+- InterstellarFuelSwitch (v1.18)
+- Community Resource Pack (0.4.7)
 
 Optional
-- ModuleManager (v2.6.6)
+- ModuleManager (v2.6.13)
 - Community Tech Tree (v2.0+)
 
 ============

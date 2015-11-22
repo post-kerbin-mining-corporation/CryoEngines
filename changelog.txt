@@ -1,8 +1,10 @@
 v0.1.11
 -------
+- Updated for KSP 1.05
 - Updated ISFuelSwitch plugin to 1.18
 - Updated to latest CRP version (0.4.7)
-- Updated ModuleManager version (2.6.6)
+- Updated ModuleManager version (2.6.13)
+- Updated funk's MFT patch
 
 v0.1.10
 ------
