@@ -1,3 +1,15 @@
+v0.2.0
+------
+- Deprecated BDAnimationModules
+- Bundled a new plugin, DeployableEngines, which does the things that BDAnimationModules did
+- Added situation masks to contract parameters
+- Fuel tanks containing LiquidHydrogen are now split into lifting tanks and insulated tanks
+- Lifting tanks are all standard stock fuel tanks
+- Lifting tanks have good mass ratios, but LiquidHydrogen contained in them boils away over time
+- Insulated tanks are the large gold foil tanks that used to be in NF Propulsion
+- Insulated tanks have poor mass ratios, but consume ElectricCharge to stop the LiquidHydrogen from evaporating
+- Changes to the base masses, mix ratios and capacities of LiquidHydrogen tanks
+
 v0.1.11
 -------
 - Updated for KSP 1.05

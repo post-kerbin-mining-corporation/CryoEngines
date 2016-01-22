@@ -1,21 +1,21 @@
-=========================
-CRYOGENIC ENGINES v0.1.11
-=========================
+========================
+CRYOGENIC ENGINES v0.2.0
+========================
 
-This is a pack with several high efficiency engines that run on Liquid Hydrogen and Oxidizer. They tend to be more expensive and have less thrust than their LF/O counterparts. Also included are patches that allow all stock fuel tanks to contain the appropriate resources.
+This is a pack with several high efficiency engines that run on Liquid Hydrogen and Oxidizer. Liquid Hydrogen is a messy fuel that leaks out of most tanks (slowly) and takes up a lot of space. However engines using it have the highest possible specific impulse, so it can be quite useful.
+Included are patches that allow all stock fuel tanks to contain the appropriate resources, and a set of new specialized LiquidHydrogen tanks that are insulated to stop leakage.
 
 ============
 DEPENDENCIES
 ============
 
 Required:
-- BDAnimationModules (v0.6.1)
 - InterstellarFuelSwitch (v1.18)
 - Community Resource Pack (0.4.7)
+- ModuleManager (v2.6.13)
 
 Optional
-- ModuleManager (v2.6.13)
-- Community Tech Tree (v2.0+)
+- Community Tech Tree (v2.2+)
 
 ============
 INSTALLATION
@@ -42,8 +42,6 @@ The contents of this pack are distributed under a Creative Commons Attribution-N
 You are free to share and adapt the materials only for non-commercial purposes and when providing appropriate attribution. Any derivatives must be distributed under the same license.
 
 Module Manager (v2.6.6) is distributed under its own licence (CC-SA). Please find source code and more details at https://github.com/sarbian/ModuleManager
-
-BDAnimationModules (v0.6.1) is distributed under its own licence (CC-BY-SA). Please find source code and more details at https://github.com/BahamutoD/BDAnimationModules/releases/
 
 Interstellar Fuel Switch (v1.16) is distributed under its own licence (CC-NC-SA). Please find source code and more details at https://github.com/sswelm/KSPInterstellar/tree/master/FuelSwitch
 
