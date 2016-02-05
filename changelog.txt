@@ -1,3 +1,14 @@
+v0.2.1
+------
+- Updated bundled CRP
+- Reduced mass of Volcano to 1.6 from 1.8, decreased thrust to 230 from 275, increased SL/Vac Isp to 385/422 from 360/410
+- Reduced mass of Chelyabinsk to 0.7 from 0.8, increased Vac Isp to 465 from 455
+- Reduced mass of Odin to 5.75 from 7.25, increased SL/Vac Isp to 385/420 from 365/415
+- Reduced mass of Tunguska to 2.75 from 3.45, increased Vac Isp to 455 from 450
+- Reduced mass of Mars to 13.25 from 12.5, increased SL/Vac Isp to 365/415 from 355/405
+- Reduced mass of Yucutan to 8.65 from 8.95, increased SL/Vac Isp to 245/445 from 235/435
+- Reduced boiloff cooling cost to 0.08 Ec/1000u from 0.1 Ec/1000u
+
 v0.2.0
 ------
 - Deprecated BDAnimationModules
