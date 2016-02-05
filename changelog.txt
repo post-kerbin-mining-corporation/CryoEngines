@@ -1,6 +1,7 @@
 v0.2.1
 ------
-- Updated bundled CRP
+- Updated bundled CRP to 0.4.9.0
+- Moved ISRU patch into CryoTanks folder, fixed ratios to new 15:1 mode from 0.2.0
 - Reduced mass of Volcano to 1.6 from 1.8, decreased thrust to 230 from 275, increased SL/Vac Isp to 385/422 from 360/410
 - Reduced mass of Chelyabinsk to 0.7 from 0.8, increased Vac Isp to 465 from 455
 - Reduced mass of Odin to 5.75 from 7.25, increased SL/Vac Isp to 385/420 from 365/415
