@@ -1,6 +1,21 @@
-v0.3.1
+v0.3.4
 ------
-- Fix bundled B9PartSwitch 
+- Fixed extra bundled dlls that break everything
+
+v0.3.3
+------
+- KSP 1.1.3 
+- Updated bundled CRP
+- Updated bundled DeployableEngines
+- Updated bundled MM
+- Updated bundled B9PartSwitch 
+- Fixed several bugs related to CryoTanks boiloff
+
+v0.3.2
+------
+- KSP 1.1.2
+- Update bundled B9PartSwitch 
+- Update bundled CRP
 - Fix switchable tank mass and cost issues
 
 v0.3.0
