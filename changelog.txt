@@ -1,5 +1,6 @@
-v0.3.4
+v0.3.5
 ------
+- Fixed deleted bundled MM 
 - Fixed extra bundled dlls that break everything
 
 v0.3.3
