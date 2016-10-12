@@ -1,5 +1,15 @@
 v0.3.6
 ------
+- KSP 1.2
+- Updated bundled MM
+- Updated bundled CRP
+- Update DeployableEngines
+- Reexported engine FX to fix interaction with atmospheric/highlight FX
+- Changed naming of engine variants
+- New colliders for engine variants to more accurately represent their structures
+
+v0.3.6
+------
 - Fixed bug that caused propellant to keep boiling off even if power was restored
 
 v0.3.5
