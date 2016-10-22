@@ -1,12 +1,24 @@
-v0.3.6
+v0.4.1
+------
+- Fixed contract killing issues
+
+v0.4.0
 ------
 - KSP 1.2
 - Updated bundled MM
 - Updated bundled CRP
+- Updated bundled B9PartSwitch
 - Updated DeployableEngines
 - Reexported engine FX to fix interaction with atmospheric/highlight FX
 - Changed naming of engine variants
 - New colliders for engine variants to more accurately represent their structures
+- CryoTanks:
+-- General functionality improvements
+-- Tank real power usage is now shown in the info box
+-- Right clicking on a tank in the VAB now displays its power usage
+-- New analytics mode that runs at 1000x time warp and up which should do a much better job of calculating boiloff
+-- Lifting and ZBO tanks now have the same mass ratio
+-- ZBO tanks have a new alternate model that can be selected
 
 v0.3.6
 ------
