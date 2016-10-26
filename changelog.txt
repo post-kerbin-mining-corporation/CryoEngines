@@ -1,3 +1,10 @@
+v0.4.2
+------
+- Updated CRP to 6.0.1
+- Fixed exceptions in VAB when using a ZBO tank for holding only non-cryo fuels
+- Fixed incorrect dry masses for ZBO tanks
+- Decreased cost and research cost of all engines to be more like 1.15-1.25x their LFO equivalents
+
 v0.4.1
 ------
 - Fixed contract killing issues
@@ -26,22 +33,22 @@ v0.3.6
 
 v0.3.5
 ------
-- Fixed deleted bundled MM 
+- Fixed deleted bundled MM
 - Fixed extra bundled dlls that break everything
 
 v0.3.3
 ------
-- KSP 1.1.3 
+- KSP 1.1.3
 - Updated bundled CRP
 - Updated bundled DeployableEngines
 - Updated bundled MM
-- Updated bundled B9PartSwitch 
+- Updated bundled B9PartSwitch
 - Fixed several bugs related to CryoTanks boiloff
 
 v0.3.2
 ------
 - KSP 1.1.2
-- Update bundled B9PartSwitch 
+- Update bundled B9PartSwitch
 - Update bundled CRP
 - Fix switchable tank mass and cost issues
 
