@@ -1,0 +1,172 @@
+v0.4.1
+------
+- Fixed contract killing issues
+
+v0.4.0
+------
+- KSP 1.2
+- Updated bundled MM
+- Updated bundled CRP
+- Updated bundled B9PartSwitch
+- Updated DeployableEngines
+- Reexported engine FX to fix interaction with atmospheric/highlight FX
+- Changed naming of engine variants
+- New colliders for engine variants to more accurately represent their structures
+- CryoTanks:
+-- General functionality improvements
+-- Tank real power usage is now shown in the info box
+-- Right clicking on a tank in the VAB now displays its power usage
+-- New analytics mode that runs at 1000x time warp and up which should do a much better job of calculating boiloff
+-- Lifting and ZBO tanks now have the same mass ratio
+-- ZBO tanks have a new alternate model that can be selected
+
+v0.3.6
+------
+- Fixed bug that caused propellant to keep boiling off even if power was restored
+
+v0.3.5
+------
+- Fixed deleted bundled MM 
+- Fixed extra bundled dlls that break everything
+
+v0.3.3
+------
+- KSP 1.1.3 
+- Updated bundled CRP
+- Updated bundled DeployableEngines
+- Updated bundled MM
+- Updated bundled B9PartSwitch 
+- Fixed several bugs related to CryoTanks boiloff
+
+v0.3.2
+------
+- KSP 1.1.2
+- Update bundled B9PartSwitch 
+- Update bundled CRP
+- Fix switchable tank mass and cost issues
+
+v0.3.0
+------
+- KSP 1.1 repack
+- Updated CRP version
+- Updated bundled MM version
+- Deprecated IFS in favour of B9PartSwitch
+- Added part search tags for parts
+
+v0.2.1
+------
+- Updated bundled CRP to 0.4.9.0
+- Moved ISRU patch into CryoTanks folder, fixed ratios to new 15:1 mode from 0.2.0
+- Fixed ISRU patch not affecting the mini ISRU
+- Reduced mass of Volcano to 1.6 from 1.8, decreased thrust to 230 from 275, increased SL/Vac Isp to 385/422 from 360/410
+- Reduced mass of Chelyabinsk to 0.7 from 0.8, increased Vac Isp to 465 from 455
+- Reduced mass of Odin to 5.75 from 7.25, increased SL/Vac Isp to 385/420 from 365/415
+- Reduced mass of Tunguska to 2.75 from 3.45, increased Vac Isp to 455 from 450
+- Reduced mass of Mars to 13.25 from 12.5, increased SL/Vac Isp to 365/415 from 355/405
+- Reduced mass of Yucutan to 8.65 from 8.95, increased SL/Vac Isp to 245/445 from 235/435
+- Reduced boiloff cooling cost to 0.08 Ec/1000u from 0.1 Ec/1000u
+
+v0.2.0
+------
+- Deprecated BDAnimationModules
+- Bundled a new plugin, DeployableEngines, which does the things that BDAnimationModules did
+- Added situation masks to contract parameters
+- Fuel tanks containing LiquidHydrogen are now split into lifting tanks and insulated tanks
+- Lifting tanks are all standard stock fuel tanks
+- Lifting tanks have good mass ratios, but LiquidHydrogen contained in them boils away over time
+- Insulated tanks are the large gold foil tanks that used to be in NF Propulsion
+- Insulated tanks have poor mass ratios, but consume ElectricCharge to stop the LiquidHydrogen from evaporating
+- Changes to the base masses, mix ratios and capacities of LiquidHydrogen tanks
+
+v0.1.11
+-------
+- Updated for KSP 1.05
+- Updated ISFuelSwitch plugin to 1.18
+- Updated to latest CRP version (0.4.7)
+- Updated ModuleManager version (2.6.13)
+- Updated funk's MFT patch
+
+v0.1.10
+------
+- Updated ISFuelSwitch plugin to 1.16
+- Updated to latest CRP version (0.4.4)
+- Updated ModuleManager version (2.6.6)
+- Bundled Mini-AVC for versioning
+- Fixed a capitalization error in CryoEnginesLFO patch
+- Fixed MFT patch to be mutually exclusive with RealFuels
+- Added new versions of all engines that lack the support ring around the top. Toggle in the editor.
+- Added new optional patch: CryoEnginesSurfaceAttach, which allows all engines to be surface attached
+
+v0.1.9
+------
+- Updated ISFuelSwitch plugin
+- Updated to latest CRP version
+- Update to fuel switch patch
+
+v0.1.8
+------
+- Updated bundled MM, ISFuelSwitch plugins
+- Fixed Odin offset smoke
+- Updated a few thermal values for 1.04
+- Rewrite of tank fuel switching patch for better balance, courtesy of several forumgoers
+- ISRU can now produce LH2 and LH2+Ox mixes
+
+v0.1.7
+------
+- Fixed LF/O/MP tank patch
+- New MFT patch from funk
+- Fixed dry mass in tank patch not adjusting.
+
+v0.1.6
+------
+- Updated included ModuleManager to 2.6.5
+- Updated included InterstellarFuelSwitch to 1.7 (fixes a couple bugs)
+- Added a patch for EngineLight that will tweak some colours on some engines
+- Fixed fuel switch patch for stock tanks to give much more logical ratios
+- Fuel switch patch now doesn't target parts with integral engines
+- Fuel switch patch functions on LF/O/MP tanks too (preserves the MP)
+- Fuel switch patch also targets LH2 orbital tanks from NFP 0.5.0+, adds ability to load LH2/OX and OX
+- Minor tweaks to cost of most engines
+- Included patches for ModularFuelTanks and ProceduralParts
+- Adjusted thrust/isp of the Tunguska to move it into a similar slot as the Skipper
+- Adjusted mass/isp of the Volcano to make it a little less overpowered
+- Added mipmaps to all .dds textures
+- Chelyabinsk now starts retracted and extends when staged
+
+v0.1.5
+------
+- Fixed LFO patch targeting wrong 1.25m engines
+- Fixed tank patch targeting LF/O/MP tanks, which it shouldn't have
+- Updated to the latest version of InterstellarFuelSwitch
+
+v0.1.4
+------
+- Fixed tank cost calculations
+- Added optional patch to convert engines to use LFO at cost of 20s of Isp
+
+v0.1.3
+------
+- Fixed engine thrusts for KSP 1.01
+- Actually updated included ModuleManager to 2.6.2
+- Removed Firespitter, replaced with InterstellarFuelSwitch
+- Fixed missing smoke trench FX
+- Increased atmospheric performance of lift engines
+- Added CTT 2.0 support
+
+v0.1.2
+------
+- Updated included ModuleManager to 2.6.2
+- Fixed Volcano's heat generation and thrust numbers being switched
+- Increased atmospheric engine thrusts by ~5%
+- Increased Isps slightly across the board (10s)
+- Fixed fuel switch patch leaving stock fuels in the tank on launch
+- Fixed lower stage 1.25m engine and both 3.75m engines being assigned to a non-extant tech node
+- Removed extra tga textures for 3.75m engines
+
+v0.1.1
+------
+- Bundled CRP was missing
+
+v0.1.0
+------
+- Initial Release
