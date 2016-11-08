@@ -1,5 +1,5 @@
 ========================
-CRYOGENIC ENGINES v0.4.2
+CRYOGENIC ENGINES v0.4.3
 ========================
 
 This is a pack with several high efficiency engines that run on Liquid Hydrogen and Oxidizer. Liquid Hydrogen is a messy fuel that leaks out of most tanks (slowly) and takes up a lot of space. However engines using it have the highest possible specific impulse, so it can be quite useful.
@@ -11,8 +11,8 @@ DEPENDENCIES
 
 Required:
 - B9PartSwitch (1.5.1)
-- Community Resource Pack (0.6.0)
-- ModuleManager (v2.7.1)
+- Community Resource Pack (6.0.1)
+- ModuleManager (v2.7.3)
 
 Optional
 - Community Tech Tree (v3.0+)
@@ -40,8 +40,8 @@ CryoEnginesSurfaceAttach: Surface attach all engines
 KSP-MINI-AVC
 ============
 
-This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745). 
-If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent. 
+This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745).
+If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent.
 For a more comprehensive version checking experience, please download the KSP-AVC Plugin (http://forum.kerbalspaceprogram.com/threads/79745).
 
 =========
