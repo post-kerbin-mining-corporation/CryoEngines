@@ -1,8 +1,8 @@
 v0.4.3
 ------
 - Marked for KSP 1.2.1
-- Updated MM to 2.7.3
-- Updated CRP to 0.6.2
+- Updated MM to 2.7.4
+- Updated CRP to 0.6.3
 
 v0.4.2
 ------
