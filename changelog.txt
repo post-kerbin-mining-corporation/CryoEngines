@@ -1,3 +1,10 @@
+v0.4.3
+------
+- Marked for KSP 1.2.1
+- Updated MM to 2.7.4
+- Updated CRP to 0.6.3
+- KPBS ISRU now produces LH2 (thanks Wyzard256)
+
 v0.4.2
 ------
 - Updated CRP to 6.0.1
