@@ -1,3 +1,7 @@
+v0.4.4
+------
+- Added optional Extras patch to convert the Mark IV Spaceplane CUTLASS Engine to use LH2/LH2O for a fuel. Bonus 55 Isp, 50 kN thrust, -0.9t mass when enabled. 
+
 v0.4.3
 ------
 - Marked for KSP 1.2.1
