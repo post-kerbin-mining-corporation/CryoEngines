@@ -1,3 +1,15 @@
+v0.4.5
+------
+- Marked for KSP 1.2.2
+- Updated bundled MM to 2.7.5
+- Updated bundled B9PartSwitch to 1.5.3
+- Updated bundled CRP to 0.6.4
+- Updated DeployableEngines to 2.1.0
+
+v0.4.4
+------
+- Added optional Extras patch to convert the Mark IV Spaceplane CUTLASS Engine to use LH2/LH2O for a fuel. Bonus 55 Isp, 50 kN thrust, -0.9t mass when enabled.
+
 v0.4.3
 ------
 - Marked for KSP 1.2.1
