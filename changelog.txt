@@ -1,3 +1,8 @@
+v0.4.6
+------
+- Updated bundled B9PartSwitch to 1.7.1
+- Updated AVC link
+
 v0.4.5
 ------
 - Marked for KSP 1.2.2
