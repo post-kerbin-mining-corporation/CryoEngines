@@ -3,7 +3,7 @@ v0.4.6
 - Updated bundled B9PartSwitch to 1.7.1
 - Updated CRP to 0.6.6
 - Updated AVC link
-- Added description to VL-1
+- Added description to VL-1 Volcano
 
 v0.4.5
 ------
