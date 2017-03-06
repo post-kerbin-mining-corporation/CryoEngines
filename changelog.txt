@@ -1,3 +1,12 @@
+v0.4.6
+------
+- Updated bundled B9PartSwitch to 1.7.1
+- Updated CRP to 0.6.6
+- Updated AVC link
+- Added description to VL-1 Volcano
+- Fixed incorrect naming of normal maps for 3.75m engines
+- Fixed a boiloff issue that could occur when switching ships that were close to each other
+
 v0.4.5
 ------
 - Marked for KSP 1.2.2
