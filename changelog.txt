@@ -1,3 +1,7 @@
+v0.5.0
+------
+- Adjusted IntakeAir consumption of Cutlass engine in LH2 patch
+
 v0.4.6
 ------
 - Updated bundled B9PartSwitch to 1.7.1
