@@ -7,6 +7,7 @@ v0.5.0
 - Updated MiniAVC to 1.0.3.3
 - Setup parts to use KSP 1.3 localization
 - Rename a few engines for consistency and VAB location
+- Updated heat production values of engines, tied primarily to engine total power now
 - Adjusted IntakeAir consumption of Cutlass engine in LH2 patch
 
 v0.4.6
