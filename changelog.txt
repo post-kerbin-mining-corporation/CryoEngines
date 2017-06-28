@@ -1,6 +1,7 @@
 v0.5.3
 ------
 - Added Spanish translation courtesy of fitiales
+- Added Russian, French, Japanese, Chinese, German translations courtesy of Next_Star_Industries
 - CryoTanks 0.4.3
 -- Added Spanish translation courtesy of fitiales
 

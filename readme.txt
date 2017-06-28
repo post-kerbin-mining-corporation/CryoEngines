@@ -44,6 +44,18 @@ This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogra
 If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent.
 For a more comprehensive version checking experience, please download the KSP-AVC Plugin (http://forum.kerbalspaceprogram.com/threads/79745).
 
+============
+LOCALIZATION
+============
+
+This mod includes localization support, and includes translations for
+- Spanish (KSP forum user fitiales)
+- French (KSP forum user Next_Star_Industries)
+- German (KSP forum user Next_Star_Industries)
+_ Russian (KSP forum user Next_Star_Industries)
+- Japanese (KSP forum user Next_Star_Industries)
+- Traditional Chinese (KSP forum user Next_Star_Industries)
+
 =========
 LICENSING
 =========
