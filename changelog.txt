@@ -4,7 +4,6 @@ v0.5.3
 - Added Russian, French, Japanese, Chinese, German translations courtesy of Next_Star_Industries
 - CryoTanks 0.4.3
 -- Added Spanish translation courtesy of fitiales
--- Added Spanish localization from fititales
 - Updated DynamicBatteryStorage to 1.0.1
 -- Reduced logging
 -- Fixed an issue with generator parsing on ModuleResourceConverters
