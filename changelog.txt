@@ -1,3 +1,7 @@
+v0.5.4
+------
+- Fixed DBS version file
+
 v0.5.3
 ------
 - Added Spanish translation courtesy of fitiales
