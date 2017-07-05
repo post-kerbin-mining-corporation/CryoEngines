@@ -1,3 +1,24 @@
+v0.5.5
+------
+- Updated bundled B9PartSwitch to 1.9.0
+- Updated bundled MM to 2.8.1
+- CryoTanks 0.4.4
+-- Fixed dry mass of LH2-only ZBO tanks
+
+v0.5.4
+------
+- Fixed DBS version file
+
+v0.5.3
+------
+- Added Spanish translation courtesy of fitiales
+- Added Russian, French, Japanese, Chinese, German translations courtesy of Next_Star_Industries
+- CryoTanks 0.4.3
+-- Added Spanish translation courtesy of fitiales
+- Updated DynamicBatteryStorage to 1.0.1
+-- Reduced logging
+-- Fixed an issue with generator parsing on ModuleResourceConverters
+
 v0.5.2
 ------
 - Updated B9PartSwitch to version 1.8.1
