@@ -1,3 +1,9 @@
+v0.5.6
+------
+- Some improvements to Russian translation
+- CryoTanks 0.4.5
+-- Added Russian translation
+
 v0.5.5
 ------
 - Updated bundled B9PartSwitch to 1.9.0

@@ -1,5 +1,5 @@
 ========================
-CRYOGENIC ENGINES v0.5.5
+CRYOGENIC ENGINES v0.5.6
 ========================
 
 This is a pack with several high efficiency engines that run on Liquid Hydrogen and Oxidizer. Liquid Hydrogen is a messy fuel that leaks out of most tanks (slowly) and takes up a lot of space. However engines using it have the highest possible specific impulse, so it can be quite useful.
@@ -52,7 +52,7 @@ This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
 - French (KSP forum user Next_Star_Industries)
 - German (KSP forum user Next_Star_Industries)
-_ Russian (KSP forum user Next_Star_Industries)
+_ Russian (KSP forum users Next_Star_Industries and vladmir_v)
 - Japanese (KSP forum user Next_Star_Industries)
 - Traditional Chinese (KSP forum user Next_Star_Industries)
 
