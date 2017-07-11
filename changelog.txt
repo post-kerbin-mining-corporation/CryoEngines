@@ -2,7 +2,11 @@ v0.5.6
 ------
 - Some improvements to Russian translation
 - CryoTanks 0.4.5
--- Added Russian translation
+-- Added Russian translation from vladmir_v
+-- Fixed a typo in the version file
+-- Adjusted the position of the nodes for the compact variants of 3.75m tanks
+-- Fixed low cost of 5m hydrogen tanks
+-- Fixed slightly off cost of 10m hydrogen tank
 
 v0.5.5
 ------
