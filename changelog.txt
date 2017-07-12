@@ -4,6 +4,8 @@ v0.5.6
 - CryoTanks 0.4.5
 -- Added Russian translation from vladmir_v
 -- Fixed a typo in the version file
+-- Fixed 5m tanks throwing a B9PartSwitch warning on placement in the VAB
+-- Fixed 3.75m tanks having collider issues
 -- Adjusted the position of the nodes for the compact variants of 3.75m tanks
 -- Fixed low cost of 5m hydrogen tanks
 -- Fixed slightly off cost of 10m hydrogen tank
