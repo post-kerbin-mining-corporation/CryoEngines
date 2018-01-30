@@ -1,6 +1,6 @@
-========================
-CRYOGENIC ENGINES v0.3.6
-========================
+=========================
+CRYOGENIC ENGINES v0.5.11
+=========================
 
 This is a pack with several high efficiency engines that run on Liquid Hydrogen and Oxidizer. Liquid Hydrogen is a messy fuel that leaks out of most tanks (slowly) and takes up a lot of space. However engines using it have the highest possible specific impulse, so it can be quite useful.
 Included are patches that allow all stock fuel tanks to contain the appropriate resources, and a set of new specialized LiquidHydrogen tanks that are insulated to stop leakage.
@@ -10,12 +10,14 @@ DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (1.01)
-- Community Resource Pack (0.5.2)
-- ModuleManager (2.6.22)
+- B9PartSwitch (2.1.0)
+- Community Resource Pack (0.8.0)
+- ModuleManager (v3.0.1)
+- Deployable Engines (1.1.0)
+- DynamicBatteryStorage (1.2.0)
 
 Optional
-- Community Tech Tree (v2.2+)
+- Community Tech Tree (v3.0+)
 
 ============
 INSTALLATION
@@ -40,20 +42,31 @@ CryoEnginesSurfaceAttach: Surface attach all engines
 KSP-MINI-AVC
 ============
 
-This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745). 
-If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent. 
+This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745).
+If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent.
 For a more comprehensive version checking experience, please download the KSP-AVC Plugin (http://forum.kerbalspaceprogram.com/threads/79745).
+
+============
+LOCALIZATION
+============
+
+This mod includes localization support, and includes translations for
+- Spanish (KSP forum user fitiales)
+- French (KSP forum user Next_Star_Industries)
+- German (KSP forum user Next_Star_Industries)
+_ Russian (KSP forum users Next_Star_Industries and vladmir_v)
+- Japanese (KSP forum user Next_Star_Industries)
+- Traditional Chinese (KSP forum user Next_Star_Industries)
 
 =========
 LICENSING
 =========
 
-The contents of this pack are distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
-
-You are free to share and adapt the materials only for non-commercial purposes and when providing appropriate attribution. Any derivatives must be distributed under the same license.
+The cfgs and code in this pack are distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). You are free to share and adapt the materials only for non-commercial purposes and when providing appropriate attribution. Any derivatives must be distributed under the same license.
+The art assets in this pack (all models and textures) are distributed under an All Rights Reserved License. You may not redistribute or re-use these assets without express permission from me.
 
 ModuleManager by ialdabaoth and sarbian is distributed under a Creative Commons Sharealike license. More details, including source code, can be found here: http://forum.kerbalspaceprogram.com/threads/31342-0-20-ModuleManager-1-3-for-all-your-stock-modding-needs?p=528607&viewfull=1#post528607
 
-The Community Resource Pack (v0.5.0) by RoverDude is also distributed under its own license.
+The Community Resource Pack by RoverDude is also distributed under its own license.
 
-B9PartSwitch (v1.01) by blowfish is also distributed under its own license.
+B9PartSwitch by blowfish is also distributed under its own license.
