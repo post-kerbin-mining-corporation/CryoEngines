@@ -1,7 +1,12 @@
-v0.5.12
--------
-- Updated CryoTanks to 0.4.10
+v0.6.0
+------
+- KSP 1.4.2
+- Updated bundled B9PartSwitch to 2.2.1
+- Updated MM to 3.0.6
+- Updated MiniAVC to 1.2.0.1
 - Added engine nicknames to tags
+- Updated CryoTanks to 1.0.0
+-- TBW
 
 v0.5.11
 -------
