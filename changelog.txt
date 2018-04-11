@@ -28,7 +28,6 @@ v0.6.0
 -- Added an optional ability to specify a set of OUTPUT_RESOURCE blocks in a BOILOFFCONFIG. This causes boiloff to produce that resource with the specified ratio and flow mode. See Config Documentation section
 -- Added the optional ability to specify boiloff as dependent on solar/planetary radiation input. See Config Documentation section
 
-
 v0.5.11
 -------
 - Updated MM to 3.0.1
