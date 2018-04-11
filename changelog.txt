@@ -13,6 +13,7 @@ v0.6.0
 - Decreased mass of Tunguska to 2.25 from 2.75t (TWR to 5.2/12.5 from 4.2/10.2)
 - Decreased mass of Mars to 11.5 from 12.5t (TWR to 20.7/23.5 from 19.0/21.6)
 - Increased thrust of Yucutan to 1850 from 1450 kN (TWR to 12.0/21.8 from 9.4/17.1)
+- Moved Odin to Heavier Rocketry
 - Updated CryoTanks to 1.0.0
 -- Fixed boiloff being disabled if a tank's fuel was disabled
 -- Fixed boiloff rates being calculated incorrectly at timewarp
