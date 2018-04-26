@@ -1,3 +1,13 @@
+v0.6.1
+------
+- KSP 1.4.3
+- Updated B9PartSwitch to 2.2.2
+- Disabled drag cube re-rendering on engines (works around new KSP bug)
+- All engines now surface attachable by default
+- Removed Extras surface attach patch
+- Updated CryoTanks to 1.0.1
+-- Changed omni-tank patch to run AFTER several other mods that also omni patch.
+
 v0.6.0
 ------
 - KSP 1.4.2
