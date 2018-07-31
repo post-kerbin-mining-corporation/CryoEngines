@@ -1,8 +1,9 @@
 v0.6.1
 ------
-- KSP 1.4.3
-- Updated B9PartSwitch to 2.2.2
-- Disabled drag cube re-rendering on engines (works around new KSP bug)
+- KSP 1.4.5
+- Updated B9PartSwitch to 2.2.3
+- Updated MM to 3.0.7
+- Updated DynamicBatteryStorage to 1.3.2
 - All engines now surface attachable by default
 - Removed Extras surface attach patch
 - Updated CryoTanks to 1.0.1
