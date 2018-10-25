@@ -1,5 +1,5 @@
 ========================
-CRYOGENIC ENGINES v0.6.1
+CRYOGENIC ENGINES v0.6.2
 ========================
 
 This is a pack with several high efficiency engines that run on Liquid Hydrogen and Oxidizer. Liquid Hydrogen is a messy fuel that leaks out of most tanks (slowly) and takes up a lot of space. However engines using it have the highest possible specific impulse, so it can be quite useful.
@@ -10,11 +10,11 @@ DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (2.3.3)
-- Community Resource Pack (0.10.0)
-- ModuleManager (v3.0.7)
+- B9PartSwitch (2.4.4)
+- Community Resource Pack (1.00.0)
+- ModuleManager (v3.1.0)
 - Deployable Engines (1.2.0)
-- DynamicBatteryStorage (1.3.2)
+- DynamicBatteryStorage (1.3.3)
 
 Optional
 - Community Tech Tree (v3.0+)
