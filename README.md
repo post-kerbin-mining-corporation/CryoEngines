@@ -1,4 +1,4 @@
-# CryoEngine
+# CryoEngines
 
 A mod pack for Kerbal Space Program, focused on delivering a new set of engines for spacecraft.
 
