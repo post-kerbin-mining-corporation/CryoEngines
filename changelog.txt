@@ -1,7 +1,13 @@
 v0.6.4
 ------
-- Updated CryoTanks to 1.0.4
-- Updated B9PartSwitch to 2.5.0
+- KSP 1.6.x
+- Updated ModuleManager to 3.1.3
+- Updated CryoTanks to 1.1.0
+- Updated B9PartSwitch to 2.6.0
+- Updated DynamicBatteryStorage to 1.4.0
+- Updated DeployableEngines to 1.0.0
+- Minor change to licensing of code/configs (MIT now)
+- Fixed EngineLight patch (thanks Nightside101010)
 - Renamed CryoEnginesMarkIV to CryoEnginesNFAero for accuracy
 
 v0.6.3
@@ -10,7 +16,6 @@ v0.6.3
 - Updated CryoTanks to 1.0.3
 - Updated B9PartSwitch to 2.4.5
 - Removed MiniAVC distribution
-
 
 v0.6.2
 ------
