@@ -32,7 +32,7 @@ These components are required for the mod to function and are bundled as part of
 * [Community Resource Pack (1.0.0)](https://github.com/BobPalmer/CommunityResourcePack)
 * [CryoTanks (1.1.0)](https://github.com/ChrisAdderley/CryoTanks)
 * [DynamicBatteryStorage (1.4.0)](https://github.com/ChrisAdderley/DynamicBatteryStorage)
-* [DeployableEngines (1.0.00)](https://github.com/ChrisAdderley/DeployableEngines)
+* [DeployableEngines (1.0.0)](https://github.com/ChrisAdderley/DeployableEngines)
 
 ## Installation
 
@@ -63,7 +63,7 @@ The art assets in this pack (all .dds, .png and .mu files) are distributed under
 Any bundled mods are distributed under their own licenses:
 * ModuleManager by ialdabaoth and sarbian is distributed under a Creative Commons Sharealike license. More details, including source code, can be found [here](http://forum.kerbalspaceprogram.com/threads/31342-0-20-ModuleManager-1-3-for-all-your-stock-modding-needs?p=528607&viewfull=1#post528607)
 * The Community Resource Pack by RoverDude is also distributed under its own license. Please find source and more details [here](https://github.com/BobPalmer/CommunityResourcePack)
-- B9PartSwitch by blowfish is also distributed under its own license. Please find source and more details [here](https://github.com/blowfishpro/B9PartSwitch)
+* B9PartSwitch by blowfish is also distributed under its own license. Please find source and more details [here](https://github.com/blowfishpro/B9PartSwitch)
 
 Everything else is distributed under the MIT license.
 
