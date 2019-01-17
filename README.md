@@ -1,4 +1,4 @@
-# CryoEngines
+# Cryogenic Engines
 
 A mod pack for Kerbal Space Program, focused on delivering a new set of engines for spacecraft.
 
@@ -14,7 +14,7 @@ A mod pack for Kerbal Space Program, focused on delivering a new set of engines 
 This mod features several new engines that use a new resource, Liquid Hydrogen. This fuel provides awesome efficiency and fuel economy. Added engines are divided into two categories
 
 * **Sustainer Engines:** Three sustainer style engines in 1.25m, 2.5m and 3.75m size classes. Sustainers perform well at most altitudes but are less thrusty than LF/O engines
-* **Vacuum Engines:** Three vacuum-optimized engines in 1.25m, 2.5m and 3.75m size classes. These engines work best in orbit. 
+* **Vacuum Engines:** Three vacuum-optimized engines in 1.25m, 2.5m and 3.75m size classes. These engines work best in orbit.
 
 In addition, my CryoTanks mod is also bundled to provide fuel handling for Liquid Hydrogen.
 
@@ -27,12 +27,12 @@ For more information, check out the [CryoTanks readme](https://github.com/ChrisA
 
 ### Required
 These components are required for the mod to function and are bundled as part of any download:
-* [ModuleManager (3.1.0)](https://github.com/sarbian/ModuleManager)
-* [B9PartSwitch (2.4.5)](https://github.com/blowfishpro/B9PartSwitch)
+* [ModuleManager (3.1.3)](https://github.com/sarbian/ModuleManager)
+* [B9PartSwitch (2.6.0)](https://github.com/blowfishpro/B9PartSwitch)
 * [Community Resource Pack (1.0.0)](https://github.com/BobPalmer/CommunityResourcePack)
-* [CryoTanks (1.0.3)](https://github.com/ChrisAdderley/CryoTanks)
-* [DynamicBatteryStorage (1.6.0)](https://github.com/Angel-125/KerbalActuators)
-* [DeployableEngines (0.1.0)](https://github.com/ChrisAdderley/DeployableEngines)
+* [CryoTanks (1.1.0)](https://github.com/ChrisAdderley/CryoTanks)
+* [DynamicBatteryStorage (1.4.0)](https://github.com/ChrisAdderley/DynamicBatteryStorage)
+* [DeployableEngines (1.0.0)](https://github.com/ChrisAdderley/DeployableEngines)
 
 ## Installation
 
@@ -49,7 +49,7 @@ Some extra patches are bundled that you can use to tweak your installation. To i
 ## External Mod Compatibility
 
 This mod includes compatibility patches for the following mods:
-* [KSP-AVC](https://github.com/CYBUTEK/KSPAddonVersionChecker): Provides version checking 
+* [KSP-AVC](https://github.com/CYBUTEK/KSPAddonVersionChecker): Provides version checking
 * [Community Tech Tree](https://github.com/ChrisAdderley/CommunityTechTree): Provides an expanded, community-sourced technology tree for modders to use
 
 ## Contributing
@@ -58,8 +58,16 @@ I certainly accept pull requests. Please target all such things to the `dev` bra
 
 ## Licensing
 
-The configuration and code in this pack are distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). You are free to share and adapt the materials only for non-commercial purposes and when providing appropriate attribution. Any derivatives must be distributed under the same license.
+The art assets in this pack (all .dds, .png and .mu files) are distributed under an All Rights Reserved license. You may not redistribute or re-use these assets without express permission from the author.
 
-The art assets in this pack (all models and textures) are distributed under an All Rights Reserved License. You may not redistribute or re-use these assets without express permission from me.
+Any bundled mods are distributed under their own licenses:
+* ModuleManager by ialdabaoth and sarbian is distributed under a Creative Commons Sharealike license. More details, including source code, can be found [here](http://forum.kerbalspaceprogram.com/threads/31342-0-20-ModuleManager-1-3-for-all-your-stock-modding-needs?p=528607&viewfull=1#post528607)
+* The Community Resource Pack by RoverDude is also distributed under its own license. Please find source and more details [here](https://github.com/BobPalmer/CommunityResourcePack)
+* B9PartSwitch by blowfish is also distributed under its own license. Please find source and more details [here](https://github.com/blowfishpro/B9PartSwitch)
 
-Any bundled dependencies in the release packages are distributed under their own licenses
+Everything else is distributed under the MIT license.
+
+Copyright (c) 2019 Chris Adderley
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
