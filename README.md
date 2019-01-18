@@ -56,6 +56,16 @@ This mod includes compatibility patches for the following mods:
 
 I certainly accept pull requests. Please target all such things to the `dev` branch though!
 
+## Translations
+
+For translation instructions please see [Localization Instructions](https://github.com/ChrisAdderley/CryoEngines/blob/master/GameData/CryoEngines/Localization/Localization.md)
+
+* **Spanish:** KSP forum user fitiales
+* **Chinese:** KSP forum user Next_Star_Industries
+* **Russian:** KSP forum user Next_Star_Industries and vladmir_v
+* **French:** KSP forum user Next_Star_Industries
+* **German:** KSP forum user Three_Pounds
+
 ## Licensing
 
 The art assets in this pack (all .dds, .png and .mu files) are distributed under an All Rights Reserved license. You may not redistribute or re-use these assets without express permission from the author.

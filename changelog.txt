@@ -1,3 +1,7 @@
+v0.6.5
+------
+- Improved German translation from Three_Pounds
+
 v0.6.4
 ------
 - KSP 1.6.x
