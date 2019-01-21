@@ -27,3 +27,8 @@ There are some characters that should not be translated into another language an
 ## Translation Credits
 
 * fitiales (Spanish)
+* Three_Pounds (German)
+* Next_Star_Industries (French)
+* Next_Star_Industries (Japanese)
+* Next_Star_Industries (Russian)
+* Next_Star_Industries (Simplified Chinese)
