@@ -1,0 +1,33 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CryoEngines",
+    "$kref": "#/ckan/spacedock/709",
+    "$vref": "#/ckan/ksp-avc/CryoEngines.version",
+    "x_netkan_epoch": 1,
+    "name": "Cryogenic Engines",
+    "license": "restricted",
+    "abstract" : "Provides new, very high efficiency engines in 1.25m, 2.5m and 3.75m size classes that burn liquid hydrogen.",
+    "resources": {
+      "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
+      "repository": "https://github.com/ChrisAdderley/CryoEngines"
+    },
+    "depends": [
+        { "name": "B9PartSwitch" },
+        { "name": "CommunityResourcePack" },
+        { "name": "CryoTanks" },
+        { "name": "DeployableEngines" },
+        { "name": "ModuleManager" }
+    ],
+    "recommends": [
+        { "name": "CommunityTechTree" }
+    ],
+    "suggests": [
+        { "name": "KerbalAtomics" }
+    ],
+    "supports": [
+        { "name": "CryoEngines-LFO" }
+    ],
+    "install": [
+        { "find" : "CryoEngines", "install_to" : "GameData" }
+    ]
+}
