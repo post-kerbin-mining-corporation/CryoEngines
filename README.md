@@ -62,7 +62,7 @@ For translation instructions please see [Localization Instructions](https://gith
 
 * **Spanish:** KSP forum user fitiales
 * **Chinese:** KSP forum user Next_Star_Industries
-* **Russian:** KSP forum user Next_Star_Industries and vladmir_v
+* **Russian:** KSP forum user Next_Star_Industries and vladmir_v, Sooll3
 * **French:** KSP forum user Next_Star_Industries
 * **German:** KSP forum user Three_Pounds
 
