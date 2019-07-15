@@ -1,0 +1,27 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CryoEngines-Restock",
+    "$kref": "#/ckan/spacedock/709",
+    "$vref": "#/ckan/ksp-avc/GameData/CryoEngines/Versioning/CryoEngines.version",
+    "x_netkan_epoch": 1,
+    "name": "Cryogenic Engines - Restock",
+    "abstract": "Optional patch to convert some engines in Restock and ReStock+ to use cryogenic fuel, improving efficiency",
+    "license": "MIT",
+    "resources": {
+      "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
+      "repository": "https://github.com/ChrisAdderley/CryoEngines"
+    },
+    "depends": [
+        { "name" : "CryoEngines" },
+        { "name" : "ReStock" }
+    ],
+    "conflicts": [
+        {"name": "CryoEngines-LFO" }
+    ],
+    "recommends": [
+        { "name": "ReStockPlus" }
+    ],
+    "install": [
+        { "find" : "CryoEnginesRestock", "install_to" : "GameData" }
+    ]
+}

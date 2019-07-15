@@ -17,7 +17,11 @@ dependencies:  # Configure dependencies
     version: 1.0.0
     location: s3
   DynamicBatteryStorage:
+<<<<<<< HEAD
     tag: 2.0.1
+=======
+    tag: 2.0.0
+>>>>>>> bad-thing-fix
     location: github
     repository: ChrisAdderley/DynamicBatteryStorage
   DeployableEngines:

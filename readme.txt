@@ -1,9 +1,9 @@
 ========================
-CRYOGENIC ENGINES v0.7.1
+CRYOGENIC ENGINES v1.0.0
 ========================
 
-This is a pack with several high efficiency engines that run on Liquid Hydrogen and Oxidizer. Liquid Hydrogen is a messy fuel that leaks out of most tanks (slowly) and takes up a lot of space. However engines using it have the highest possible specific impulse, so it can be quite useful.
-Included are patches that allow all stock fuel tanks to contain the appropriate resources, and a set of new specialized LiquidHydrogen tanks that are insulated to stop leakage.
+This is a pack with several high efficiency engines that run on Liquid Hydrogen and Oxidizer. Liquid Hydrogen is a messy fuel that leaks out of most tanks (slowly) and takes up a lot of space. However engines using it have the highest possible chemical specific impulse, so it can be quite useful.
+Included are patches that allow all stock fuel tanks to contain the appropriate resources, and a set of new specialized fuel tanks that are insulated to stop leakage.
 
 ============
 DEPENDENCIES
@@ -15,7 +15,7 @@ Required:
 - ModuleManager (v4.0.2)
 - Deployable Engines (1.0.1)
 - DynamicBatteryStorage (2.0.1)
-- CryoTanks (1.1.4)
+- CryoTanks (1.2.0)
 
 Optional
 - Community Tech Tree (v3.0+)
@@ -28,8 +28,6 @@ I recommend removing any previous versions of CryoEngines before installing an u
 
 To install, place the GameData folder inside your Kerbal Space Program folder. If asked to overwrite files, do so.
 
-If you want your engines to use LF/O instead of LH2/O, drop the CryoEnginesLFO folder (found in the Extras folder in this archive) into your KSP GameData folder.
-
 ======================
 INSTALLATION OF EXTRAS
 ======================
@@ -37,7 +35,8 @@ INSTALLATION OF EXTRAS
 Some extra patches are bundled that you can use to tweak your installation. To install them, drop the correct folder from the Extras folder in this archive into your KSP GameData Folder
 
 CryoEnginesLFO: Converts engines to use LF/O instead of LH2/O at the cost of some Isp
-CryoEnginesSurfaceAttach: Surface attach all engines
+CryoEnginesNFAero: Surface attach all engines
+CryoEnginesRestock: Converts ReStock and Restock+ engines that 'should' be cryogenic to cryogenics
 
 =======
 KSP-AVC
