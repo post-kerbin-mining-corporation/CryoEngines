@@ -2,7 +2,7 @@ v1.0.0
 ------
 - Updated B9PartSwitch to 2.8.0
 - Updated CryoTanks to 1.2.0
-- Soft-deprecated current set of engines; they are replaced but nicely removed so people have time to adapt
+- Soft-deprecated old set of engines; they are replaced but nicely removed so people have time to adapt
 - New 0.625m engine
   - CR-10A 'Stromboli' Cryogenic Rocket Engine: Sustainer engine based on hypothetical updated DC-X RL-10-A5. 0.625m, Boattail and Compact variants
 - Revised 1.25m engines
@@ -19,7 +19,7 @@ v1.0.0
   - CE-602 'Tharsis' Cryogenic Engine Cluster: Vacuum engine cluster with extensible nozzles based on alternate Constellation upper stage option. 3.75m and Compact variants
 - Tuned most revised engines in terms of mass, thrust and Isp
 - New Extras package: CryoEnginesRestock
-  - Adapts the appropriate ReStock and ReStockPlus engines into cryogenic engines (Vector, Mammoth, Rhino, Skipper, Corgi, Skiff/Caravel)
+  - Adapts the appropriate ReStock and ReStockPlus engines into cryogenic engines (Vector, Mammoth, Rhino, Skipper, Corgi, Skiff/Caravel) with Significant balance changes
 
 v0.7.1
 ------

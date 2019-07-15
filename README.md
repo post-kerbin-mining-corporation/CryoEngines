@@ -13,8 +13,8 @@ A mod pack for Kerbal Space Program, focused on delivering a new set of engines 
 
 This mod features several new engines that use a new resource, Liquid Hydrogen. This fuel provides awesome efficiency and fuel economy. Added engines are divided into two categories:
 
-* **Sustainer Engines:** Four sustainer style engines in 1.25m, 1.875m, 2.5m and 3.75m size classes. Sustainers perform well at most altitudes but are less thrusty than LF/O engines, so may require boosters
-* **Vacuum Engines:** Four vacuum-optimized engines in 1.25m, 1.875m, 2.5m and 3.75m size classes. These engines work best outside of at atmosphere and don't produce much thrust.
+* **Sustainer Engines:** Five sustainer style engines in the 0.625m, 1.25m, 1.875m, 2.5m and 3.75m size classes. Sustainers perform well at most altitudes but are less thrusty than LF/O engines, so may require boosters
+* **Vacuum Engines:** Four vacuum-optimized engines in the 1.25m, 1.875m, 2.5m and 3.75m size classes. These engines work best outside of at atmosphere and don't produce much thrust.
 
 In addition, my CryoTanks mod is also bundled to provide fuel handling for Liquid Hydrogen.
 
