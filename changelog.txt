@@ -1,3 +1,11 @@
+v0.7.1
+------
+- Reverted bad changes from 0.7.0 accidental update
+- Updated B9PartSwitch to 2.8.0
+- Updated DynamicBatteryStorage to 2.0.1
+- Updated CryoTanks to 1.1.4
+ - Changed LH2/O tank switcher patch to not activate cooling by default as such tanks are on average intended to be uncooled (thanks Zorg)
+ 
 v0.6.6
 ------
 - KSP 1.7.x
