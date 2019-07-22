@@ -21,11 +21,11 @@ dependencies:  # Configure dependencies
     location: github
     repository: ChrisAdderley/DynamicBatteryStorage
   DeployableEngines:
-    tag: 1.0.1
+    tag: 1.1.0
     location: github
     repository: ChrisAdderley/DeployableEngines
   CryoTanks:
-    tag: 1.1.4
+    tag: 1.2.0
     location: github
     repository: ChrisAdderley/CryoTanks
 deploy:

@@ -2,24 +2,34 @@ v1.0.0
 ------
 - Updated B9PartSwitch to 2.8.0
 - Updated CryoTanks to 1.2.0
+  -
+- Updated DeployableEngines to 1.1.0
+  - Added new ModuleAdvancedLookAtConstraint module
+    - Version of basic FXModuleLookConstraint with the addition of viewing vector setting
+    - Tries (mostly successfully) to ensure a constrained object's  up vector (green transform in unity) matches the up vector of the target object, which resolves problems with almost vertical/vertical gimbal pistons
+    - Same syntax for configs as FXModuleLookConstraint
+- Updated DynamicBatteryStorage to 2.0.1
 - Soft-deprecated old set of engines; they are replaced but nicely removed so people have time to adapt
 - New 0.625m engine
   - CR-10A 'Stromboli' Cryogenic Rocket Engine: Sustainer engine based on hypothetical updated DC-X RL-10-A5. 0.625m, Boattail and Compact variants
 - Revised 1.25m engines
-  - CR-2 'Vesuvius' Cryogenic Rocket Engine: Sustainer engine based on Ariane Vulcain 2. 1.25m, Boattail and Compact variants
-  - CE-10 'Hecate' Cryogenic Rocket Engine: Vacuum engine with extensible nozzle based on RL-10-C2. 1.25m and Compact variants
+  - CR-2 'Vesuvius' Cryogenic Rocket Engine: Sustainer engine based on Ariane Vulcain 2. 1.25m, Boattail and Compact variants. Similar to old Volcano.
+  - CE-10 'Hecate' Cryogenic Rocket Engine: Vacuum engine with extensible nozzle based on RL-10-C2. 1.25m and Compact variants. Similar to old Chelyabinsk.
 - New 1.875m engines
-  - CR-0120 'Erebus' Cryogenic Rocket Engine: Sustainer engine based on Energia RD-0120. 1.875m, Boattail and Compact variants
-  - CE-60 'Pavonis' Cryogenic Rocket Engine: Vacuum engine with extensible nozzle based on unflown RL-60. 1.875 and Compact variants
+  - CR-0120 'Erebus' Cryogenic Rocket Engine: Sustainer engine based on Energia RD-0120. 1.875m, Boattail and Compact variants.
+  - CE-60 'Pavonis' Cryogenic Rocket Engine: Vacuum engine with extensible nozzle based on unflown RL-60. 1.875 and Compact variants.
 - Revised 2.5m engines
-  - CR-9 'Fuji' Cryogenic Rocket Engine: Sustainer engine based on JAXA LE-9. 2.5m, Boattail and Compact variants
-  - CE-2X 'Hecate' Cryogenic Rocket Engine: Vacuum engine based on Constellation J2-X. 2.5m and Compact variants
+  - CR-9 'Fuji' Cryogenic Rocket Engine: Sustainer engine based on JAXA LE-9. 2.5m, Boattail and Compact variants. Similar to old Odin.
+  - CE-2X 'Ulysses' Cryogenic Rocket Engine: Vacuum engine based on Constellation J2-X. 2.5m and Compact variants. Similar to old Tunguska.
 - Revised 3.75m engines
-  - CR-68 'Etna' Cryogenic Rocket Engine: Sustainer engine based on Delta IV RS-68. 3.75m, Boattail and Compact variants
-  - CE-602 'Tharsis' Cryogenic Engine Cluster: Vacuum engine cluster with extensible nozzles based on alternate Constellation upper stage option. 3.75m and Compact variants
-- Tuned most revised engines in terms of mass, thrust and Isp
+  - CR-68 'Etna' Cryogenic Rocket Engine: Sustainer engine based on Delta IV RS-68. 3.75m, Boattail and Compact variants. Similar to old Mars.
+  - CE-602 'Tharsis' Cryogenic Engine Cluster: Vacuum engine cluster with extensible nozzles based on alternate Constellation upper stage option. 3.75m and Compact variants.
+- Restock style engine effect model and emissives propagated to all new parts
+- New plumes for all engines
+- Slightly tuned most revised engines in terms of mass, thrust and Isp compared to their predecessors
 - New Extras package: CryoEnginesRestock
-  - Adapts the appropriate ReStock and ReStockPlus engines into cryogenic engines (Vector, Mammoth, Rhino, Skipper, Corgi, Skiff/Caravel) with Significant balance changes
+  - Adapts the appropriate ReStock and ReStockPlus engines into cryogenic engines (Vector, Mammoth, Rhino, Skipper, Corgi, Skiff/Caravel) with significant balance changes
+  - Changes the plume for the Rhino and Skipper to be appropriately cryogenic
 
 v0.7.1
 ------

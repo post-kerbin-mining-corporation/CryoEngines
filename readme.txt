@@ -13,7 +13,7 @@ Required:
 - B9PartSwitch (2.8.0)
 - Community Resource Pack (1.0.0)
 - ModuleManager (v4.0.2)
-- Deployable Engines (1.0.1)
+- Deployable Engines (1.1.0)
 - DynamicBatteryStorage (2.0.1)
 - CryoTanks (1.2.0)
 
