@@ -21,7 +21,7 @@ v1.0.0
     - Similar mass ratio to Liquid Fuel (9)
     - Higher cost ratio compared to Liquid Fuel (0.12 vs 0.1)
     - Enabled by declaring any MM patch with :FOR[CryoTanksMethalox] or including a folder in GameData called CryoTanksMethalox
-- Soft-deprecated old set of engines; they are replaced but invisible so people have time to adapt
+- Soft-deprecated entire old set of CryoEngines parts; they are replaced but invisible so people have time to adapt
 - New 0.625m engine:
   - CR-10A 'Stromboli' Cryogenic Rocket Engine: Sustainer engine based on updated hypothetical DC-X RL-10-A5. 0.625m, Boattail and Compact variants
 - Revised 1.25m engines
@@ -40,7 +40,7 @@ v1.0.0
 - New plumes for all engines
 - RealPlume support for new plumes, courtesy of Zorg
 - Slightly tuned most revised engines in terms of mass, thrust and Isp compared to their predecessors
-- CryoEnginesLFO Extras package has been tuned to match the new stuff
+- CryoEnginesLFO Extras package has been tuned to match the new content (typically 70s of Isp loss)
 - New Extras package: CryoEnginesRestock
   - Adapts the appropriate ReStock and ReStockPlus engines into cryogenic engines (Vector, Mammoth, Rhino, Skipper, Corgi, Skiff/Caravel) with significant balance changes
   - Changes the plume for the Rhino, Skiff/Caravel and Skipper to be appropriately cryogenic
