@@ -11,10 +11,10 @@ A mod pack for Kerbal Space Program, focused on delivering a new set of engines 
 
 ## Features
 
-This mod features several new engines that use a new resource, Liquid Hydrogen. This fuel provides awesome efficiency and fuel economy. Added engines are divided into two categories
+This mod features several new engines that use a new resource, Liquid Hydrogen. This fuel provides awesome efficiency and fuel economy. Added engines are divided into two categories:
 
-* **Sustainer Engines:** Three sustainer style engines in 1.25m, 2.5m and 3.75m size classes. Sustainers perform well at most altitudes but are less thrusty than LF/O engines
-* **Vacuum Engines:** Three vacuum-optimized engines in 1.25m, 2.5m and 3.75m size classes. These engines work best in orbit.
+* **Sustainer Engines:** Five sustainer style engines in the 0.625m, 1.25m, 1.875m, 2.5m and 3.75m size classes. Sustainers perform well at most altitudes but are less thrusty than LF/O engines, so may require boosters
+* **Vacuum Engines:** Four vacuum-optimized engines in the 1.25m, 1.875m, 2.5m and 3.75m size classes. These engines work best outside of at atmosphere and don't produce much thrust.
 
 In addition, my CryoTanks mod is also bundled to provide fuel handling for Liquid Hydrogen.
 
@@ -28,11 +28,11 @@ For more information, check out the [CryoTanks readme](https://github.com/ChrisA
 ### Required
 These components are required for the mod to function and are bundled as part of any download:
 * [ModuleManager (4.0.2)](https://github.com/sarbian/ModuleManager)
-* [B9PartSwitch (2.8.0)](https://github.com/blowfishpro/B9PartSwitch)
+* [B9PartSwitch (2.8.1)](https://github.com/blowfishpro/B9PartSwitch)
 * [Community Resource Pack (1.0.1)](https://github.com/BobPalmer/CommunityResourcePack)
-* [CryoTanks (1.1.4)](https://github.com/ChrisAdderley/CryoTanks)
-* [DynamicBatteryStorage (2.0.0)](https://github.com/ChrisAdderley/DynamicBatteryStorage)
-* [DeployableEngines (1.0.1)](https://github.com/ChrisAdderley/DeployableEngines)
+* [CryoTanks (1.2.0)](https://github.com/ChrisAdderley/CryoTanks)
+* [DynamicBatteryStorage (2.0.2)](https://github.com/ChrisAdderley/DynamicBatteryStorage)
+* [DeployableEngines (1.1.0)](https://github.com/ChrisAdderley/DeployableEngines)
 
 ## Installation
 
@@ -45,6 +45,8 @@ NOTE: Do NOT rename or move folders within the GameData folder - this mod uses a
 Some extra patches are bundled that you can use to tweak your installation. To install them, drop the correct folder from the **Extras** folder into your KSP GameData Folder
 
 * **CryoEnginesLFO**: Converts engines to use LF/O instead of LH2/O at the cost of some Isp
+* **CryoEnginesNFAero**: Converts some appropriate engines to use LH2/O or LH instead of LF/O with some Isp and thrust tweaks
+* **CryoEnginesRestock**: Converts some appropriate engines to use LH2/O instead of LF/O with some Isp and thrust tweaks
 
 ## External Mod Compatibility
 
