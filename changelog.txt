@@ -1,3 +1,10 @@
+v1.0.1
+------
+- Updated DynamicBatteryStorage to 2.0.3
+- Updated CryoTanks to 1.2.1
+- Changed RealPlume compatibility patch to use old syntax (Zorg)
+- Changed method used to render inner engine glows to be less visible in the editor
+
 v1.0.0
 ------
 - Updated B9PartSwitch to 2.8.1
