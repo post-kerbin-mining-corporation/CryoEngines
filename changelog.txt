@@ -1,3 +1,9 @@
+v1.1.2
+------
+- Updated CryoTanks to 1.4.3
+- Decreased Pavonis thrust to 160 from 180 kN
+- Decreased Tharsis thrust to 360 from 400 kN
+
 v1.1.1
 ------
 - KSP 1.9.x
