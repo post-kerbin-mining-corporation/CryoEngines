@@ -7,6 +7,7 @@ v1.1.3
  - Added ability to mark a tank in config as uncoolable (CoolingAllowed = false)
  - Added special handling to the MH/RS+ soyuz tanks to allow them to use the switcher even though they have an engine module
  - Tuned cost of LF-only tanks with the fuel switcher to be approximately $0.8/u (previously was 0.5)
+- Updated Spanish localization (fitiales)
 
 v1.1.2
 ------
