@@ -6,7 +6,8 @@ v1.1.4
 - Updated CryoTanks to 1.5.2
 - Updated DeployableEngines to 1.2.2
 - Updated ModuleManager to 4.1.4
-- New Russian localized by ra4nd0m
+- New Russian localization by ra4nd0m
+- New Portugese localization by Rib3iroJr
 - LH2 engines patch now handles post 1.8 Restock properly (wyzard256)
 - Extended Isp curves for all engines past 4 atm
 

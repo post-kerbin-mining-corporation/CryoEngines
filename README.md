@@ -67,6 +67,7 @@ For translation instructions please see [Localization Instructions](https://gith
 * **Russian:** KSP forum user Next_Star_Industries and vladmir_v, Sooll3
 * **French:** KSP forum user Next_Star_Industries
 * **German:** KSP forum user Three_Pounds
+* **Portugese:** Rib3iroJr
 
 ## Licensing
 

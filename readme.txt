@@ -52,7 +52,7 @@ This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
 - French (KSP forum user Next_Star_Industries)
 - German (KSP forum user Three_Pounds)
-_ Russian (KSP forum users Next_Star_Industries and vladmir_v, Sooll3)
+_ Russian (KSP forum user r4ndom)
 - Japanese (KSP forum user Next_Star_Industries)
 - Traditional Chinese (KSP forum user Next_Star_Industries, tinygrox)
 
