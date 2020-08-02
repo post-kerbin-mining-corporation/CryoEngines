@@ -27,12 +27,12 @@ For more information, check out the [CryoTanks readme](https://github.com/ChrisA
 
 ### Required
 These components are required for the mod to function and are bundled as part of any download:
-* [ModuleManager (4.1.3)](https://github.com/sarbian/ModuleManager)
-* [B9PartSwitch (2.16.0)](https://github.com/blowfishpro/B9PartSwitch)
+* [ModuleManager (4.1.4)](https://github.com/sarbian/ModuleManager)
+* [B9PartSwitch (2.17.0)](https://github.com/blowfishpro/B9PartSwitch)
 * [Community Resource Pack (1.3.0)](https://github.com/BobPalmer/CommunityResourcePack)
-* [CryoTanks (1.5.0)](https://github.com/ChrisAdderley/CryoTanks)
-* [DynamicBatteryStorage (2.1.6)](https://github.com/ChrisAdderley/DynamicBatteryStorage)
-* [DeployableEngines (1.2.1)](https://github.com/ChrisAdderley/DeployableEngines)
+* [CryoTanks (1.5.2)](https://github.com/ChrisAdderley/CryoTanks)
+* [DynamicBatteryStorage (2.1.7)](https://github.com/ChrisAdderley/DynamicBatteryStorage)
+* [DeployableEngines (1.2.2)](https://github.com/ChrisAdderley/DeployableEngines)
 
 ## Installation
 
@@ -67,6 +67,7 @@ For translation instructions please see [Localization Instructions](https://gith
 * **Russian:** KSP forum user Next_Star_Industries and vladmir_v, Sooll3
 * **French:** KSP forum user Next_Star_Industries
 * **German:** KSP forum user Three_Pounds
+* **Portugese:** Rib3iroJr
 
 ## Licensing
 

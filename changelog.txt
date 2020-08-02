@@ -1,3 +1,16 @@
+v1.1.4
+------
+- Marked for KSP 1.10.x
+- Updated DynamicBatteryStorage to 2.1.7
+- Updated B9PartSwitch to 2.17.0
+- Updated CryoTanks to 1.5.2
+- Updated DeployableEngines to 1.2.2
+- Updated ModuleManager to 4.1.4
+- New Russian localization by ra4nd0m
+- New Portugese localization by Rib3iroJr
+- LH2 engines patch now handles post 1.8 Restock properly (wyzard256)
+- Extended Isp curves for all engines past 4 atm
+
 v1.1.3
 ------
 - Updated DynamicBatteryStorage to 2.1.6
