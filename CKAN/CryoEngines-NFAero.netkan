@@ -8,7 +8,7 @@
     "license": "MIT",
     "resources": {
       "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
-      "repository": "https://github.com/ChrisAdderley/CryoEngines"
+      "repository": "https://github.com/post-kerbin-mining-corporation/CryoEngines"
     },
     "depends": [
         { "name" : "CryoEngines" }
