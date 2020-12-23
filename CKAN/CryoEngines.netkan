@@ -9,7 +9,7 @@
     "abstract" : "Provides new, very high efficiency engines in 1.25m, 2.5m and 3.75m size classes that burn liquid hydrogen.",
     "resources": {
       "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
-      "repository": "https://github.com/ChrisAdderley/CryoEngines"
+      "repository": "https://github.com/post-kerbin-mining-corporation/CryoEngines"
     },
     "depends": [
         { "name": "B9PartSwitch" },
@@ -19,7 +19,8 @@
         { "name": "ModuleManager" }
     ],
     "recommends": [
-        { "name": "CommunityTechTree" }
+        { "name": "CommunityTechTree" },
+        { "name": "Waterfall" }
     ],
     "suggests": [
         { "name": "KerbalAtomics" }
