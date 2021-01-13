@@ -25,7 +25,7 @@ dependencies:  # Configure dependencies
     location: github
     repository: post-kerbin-mining-corporation/DeployableEngines
   CryoTanks:
-    tag: 1.5.5
+    tag: 1.5.6
     location: github
     repository: post-kerbin-mining-corporation/CryoTanks
 deploy:

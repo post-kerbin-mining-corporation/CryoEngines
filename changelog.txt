@@ -1,3 +1,11 @@
+v1.2.1
+------
+- Updated CryoTanks to 1.5.6
+- Deconflict Waterfall and CryoEngines configs (zorg)
+- Fix cargo parts for KSP < 1.11
+- Rework how engine fairings work in general to be more robust
+- Recompress some normal maps to improve visuals of engines
+
 v1.2.0
 ------
 - Marked for KSP 1.11.x

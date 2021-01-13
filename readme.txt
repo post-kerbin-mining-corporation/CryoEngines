@@ -1,5 +1,5 @@
 ========================
-CRYOGENIC ENGINES v1.2.0
+CRYOGENIC ENGINES v1.2.1
 ========================
 
 This is a pack with several high efficiency engines that run on Liquid Hydrogen and Oxidizer. Liquid Hydrogen is a messy fuel that leaks out of most tanks (slowly) and takes up a lot of space. However engines using it have the highest possible chemical specific impulse, so it can be quite useful.
