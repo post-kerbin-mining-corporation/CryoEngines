@@ -6,6 +6,7 @@
     "x_netkan_epoch": 1,
     "name": "Cryogenic Engines - Restock",
     "abstract": "Optional patch to convert some engines in Restock and ReStock+ to use cryogenic fuel, improving efficiency. Will affect savegames!",
+    "author"              : "Nertea (Chris Adderley)",
     "license": "MIT",
     "resources": {
       "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
