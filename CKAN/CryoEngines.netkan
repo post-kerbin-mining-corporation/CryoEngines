@@ -7,6 +7,7 @@
     "name": "Cryogenic Engines",
     "license": "restricted",
     "abstract" : "Provides new, very high efficiency engines in 1.25m, 2.5m and 3.75m size classes that burn liquid hydrogen.",
+    "author"              : "Nertea (Chris Adderley)",
     "resources": {
       "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
       "repository": "https://github.com/post-kerbin-mining-corporation/CryoEngines"

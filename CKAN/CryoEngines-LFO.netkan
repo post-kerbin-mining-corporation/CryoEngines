@@ -6,6 +6,7 @@
     "x_netkan_epoch": 1,
     "name": "Cryogenic Engines - Liquid Fuel/Oxidizer",
     "abstract": "Optional patch to make the engines burn KSP's normal liquid fuel and oxidizer mixture instead of the custom liquid hydrogen and oxidizer mixture that they use by default, at the cost of efficiency",
+    "author"              : "Nertea (Chris Adderley)",
     "license": "MIT",
     "resources": {
       "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
