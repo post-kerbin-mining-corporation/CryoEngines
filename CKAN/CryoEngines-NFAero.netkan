@@ -5,6 +5,7 @@
     "$vref": "#/ckan/ksp-avc/GameData/CryoEngines/Versioning/CryoEngines.version",
     "name": "Cryogenic Engines - Near Future Aeronautics",
     "abstract": "Optional patch to convert relevant engines in Near Future Aeronautics to burn Liquid Hydrogen",
+    "author"              : "Nertea (Chris Adderley)",
     "license": "MIT",
     "resources": {
       "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
