@@ -2,16 +2,18 @@ v2.0.0
 ------
 - Updated DeployableEngines to 1.3.0
 - Updated CryoTanks to 1.6.0
+- Updated DynamicBatteryStorage to 2.2.2
+- Updated Waterfall configurations to use new templates from Waterfall 0.5.0+
 - Added new lineup of methalox engines
- - MR-1 'Compsognathus' Liquid Rocket Engine: 0.625m  booster engine (boattail, 0.625m, compact variants)
+ - MR-1 'Compsognathus' Liquid Rocket Engine: 0.625m booster engine (boattail, 0.625m, compact variants)
  - MU-018 'Hawk' Liquid Rocket Engine: 0.625m entry-level vacuum engine  (0.625m, compact variants)
- - MR- 'Deinonychus' Liquid Rocket Engine: 1.25m powerful booster engine (boattail, 1.25m, compact variants)
+ - MR-420 'Deinonychus' Liquid Rocket Engine: 1.25m powerful booster engine (boattail, 1.25m, compact variants)
  - MU-10 'Buzzard' Liquid Rocket Engine: 1.25m average vacuum engine (1.25m, compact variants)
  - MR-4 'Iguanodon' Liquid Rocket Engine: 1.875m workhorse booster engine (boattail, 1.875m, compact variants)
  - MU-11 'Harrier' Liquid Rocket Engine: 1.875m versatile vacuum engine with cool verniers  (1.875m, compact variants)
- - MR- 'Allosaur' Liquid Rocket Engine: 2.5m booster engine (boattail, 2.5m, compact variants)
- - MU-420 'Eagle' Liquid Rocket Engine: 2.5m overthrusted vacuum engine (2.5m, compact variants)
- - MR- 'Tyrannosaur' Liquid Rocket Engine Cluster: 3.75m engine cluster made of 9 deinonychii (finned, bare variants)
+ - MR-8 'Allosaur' Liquid Rocket Engine: 2.5m booster engine (boattail, 2.5m, compact variants)
+ - MU-421 'Eagle' Liquid Rocket Engine: 2.5m overthrusted vacuum engine (2.5m, compact variants)
+ - MR-420-9 'Tyrannosaur' Liquid Rocket Engine Cluster: 3.75m engine cluster made of 9 deinonychii (finned, bare variants)
  - MU-4U 'Vulture' Liquid Rocket Engine: 3.75m vacuum engine with massive deployable nozzle (3.75m, compact variants)
 
 
