@@ -4,6 +4,7 @@ v2.0.0
 - Updated CryoTanks to 1.6.0
 - Updated DynamicBatteryStorage to 2.2.2
 - Updated Waterfall configurations to use new templates from Waterfall 0.5.0+
+- Increased entryCost of Pavonis from 4560 to 12600
 - Added new lineup of methalox engines
  - MR-1 'Compsognathus' Liquid Rocket Engine: 0.625m booster engine (boattail, 0.625m, compact variants)
  - MU-018 'Hawk' Liquid Rocket Engine: 0.625m entry-level vacuum engine  (0.625m, compact variants)
