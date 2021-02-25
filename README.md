@@ -11,15 +11,22 @@ A mod pack for Kerbal Space Program, focused on delivering a new set of engines 
 
 ## Features
 
-This mod features several new engines that use a new resource, Liquid Hydrogen. This fuel provides awesome efficiency and fuel economy. Added engines are divided into two categories:
+This mod features several new engines that use two new resources, Liquid Hydrogen and Liquid Methane. These fuels provide advanatages and disadvantages compared to stock Liquid Fuel, having different efficiencies, thrust ranges and storage volumes.
+
+Liquid Hydrogen engines are divided into two categories:
 
 * **Sustainer Engines:** Five sustainer style engines in the 0.625m, 1.25m, 1.875m, 2.5m and 3.75m size classes. Sustainers perform well at most altitudes but are less thrusty than LF/O engines, so may require boosters
 * **Vacuum Engines:** Four vacuum-optimized engines in the 1.25m, 1.875m, 2.5m and 3.75m size classes. These engines work best outside of at atmosphere and don't produce much thrust.
 
-In addition, my CryoTanks mod is also bundled to provide fuel handling for Liquid Hydrogen.
+Liquid Methane engines are divided into two categories:
+
+* **Booster Engines:** Five booster style engines in the 0.625m, 1.25m, 1.875m, 2.5m and 3.75m size classes. Liquid Methane boosters are quite powerful and provide similar thrust to their LFO counterparts, but are less efficient than LH2 versions.
+* **Vacuum Engines:** Five vacuum-optimized engines in the 0.625, 1.25m, 1.875m, 2.5m and 3.75m size classes. These engines work best outside of at atmosphere and don't produce much thrust, but tend to be more powerful than LH2 equivalents
+
+In addition, my CryoTanks mod is also bundled to provide fuel handling for Liquid Hydrogen and Methane.
 
 * **Fuel Switching:** A set of patches provide fuel-switching features for most basic LF and LF/O tanks
-* **Orbital Fuel Tanks:** A set of fuel tanks specially designed to contain LH2
+* **Orbital Fuel Tanks:** A set of fuel tanks specially designed to contain cryogenic fuels
 
 For more information, check out the [CryoTanks readme](https://github.com/ChrisAdderley/CryoTanks/blob/master/README.md).
 
@@ -30,9 +37,9 @@ These components are required for the mod to function and are bundled as part of
 * [ModuleManager (4.1.4)](https://github.com/sarbian/ModuleManager)
 * [B9PartSwitch (2.17.0)](https://github.com/blowfishpro/B9PartSwitch)
 * [Community Resource Pack (1.4.2)](https://github.com/BobPalmer/CommunityResourcePack)
-* [CryoTanks (1.5.4)](https://github.com/post-kerbin-mining-corporation/CryoTanks)
-* [DynamicBatteryStorage (2.2.1)](https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage)
-* [DeployableEngines (1.2.3)](https://github.com/post-kerbin-mining-corporation/DeployableEngines)
+* [CryoTanks (1.6.0)](https://github.com/post-kerbin-mining-corporation/CryoTanks)
+* [DynamicBatteryStorage (2.2.2)](https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage)
+* [DeployableEngines (1.3.0)](https://github.com/post-kerbin-mining-corporation/DeployableEngines)
 
 ## Installation
 

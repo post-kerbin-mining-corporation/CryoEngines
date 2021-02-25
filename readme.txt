@@ -1,8 +1,8 @@
 ========================
-CRYOGENIC ENGINES v1.2.1
+CRYOGENIC ENGINES v2.0.0
 ========================
 
-This is a pack with several high efficiency engines that run on Liquid Hydrogen and Oxidizer. Liquid Hydrogen is a messy fuel that leaks out of most tanks (slowly) and takes up a lot of space. However engines using it have the highest possible chemical specific impulse, so it can be quite useful.
+This is a pack with several new liquid fuel engines that run on Liquid Hydrogen and Oxidizer or Liquid Methane and Oxidizer. Liquid Hydrogen is a messy fuel that leaks out of most tanks (slowly) and takes up a lot of space compared to stock Liquid Fuel. However engines using it have the highest possible chemical specific impulse, so it can be quite useful. Liquid Methane is a middle of the road fuel that has a volume between Liquid Fuel and Liquid Hydrogen. It still leaks, but not as fast. In all cases, leakage can be countered by using a modest amount of power. 
 Included are patches that allow all stock fuel tanks to contain the appropriate resources, and a set of new specialized fuel tanks that are insulated to stop leakage.
 
 ============
@@ -13,9 +13,9 @@ Required:
 - B9PartSwitch (2.17.0)
 - Community Resource Pack (1.4.2)
 - ModuleManager (v4.1.4)
-- Deployable Engines (1.2.2)
+- Deployable Engines (1.3.0)
 - DynamicBatteryStorage (2.1.7)
-- CryoTanks (1.5.5)
+- CryoTanks (1.6.0)
 
 Optional
 - Community Tech Tree (v3.0+)
