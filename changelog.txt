@@ -1,3 +1,9 @@
+v2.0.1
+------
+- Zeroed Harrier thrust transforms
+- Updated Waterfall configurations to use new features from Waterfall 0.6.0
+- Updated LFO extras patch to handle methalox engines 
+
 v2.0.0
 ------
 - Updated DeployableEngines to 1.3.0
