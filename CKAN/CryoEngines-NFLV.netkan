@@ -1,0 +1,25 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "CryoEngines-NFLV",
+    "$kref": "#/ckan/spacedock/709",
+    "$vref": "#/ckan/ksp-avc/GameData/CryoEngines/Versioning/CryoEngines.version",
+    "x_netkan_epoch": 1,
+    "name": "Cryogenic Engines - NFLV Cougar/Lynx Multimode",
+    "abstract": "Optional patch to make the Cougar and Lynx engines in NFLV function more like their real life inspirations and use either an LF/LH2/O or LH2/O fuel mix.",
+    "author"              : "Nertea (Chris Adderley)",
+    "license": "MIT",
+    "resources": {
+      "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
+      "repository": "https://github.com/post-kerbin-mining-corporation/CryoEngines"
+    },
+    "depends": [
+        { "name" : "CryoEngines",
+         "name" : "NearFutureLaunchVehicles" }
+    ],
+    "conflicts": [
+        {"name": "CryoEngines-LFO" }
+    ],
+    "install": [
+        { "find" : "CryoEnginesNFLV", "install_to" : "GameData" }
+    ]
+}
