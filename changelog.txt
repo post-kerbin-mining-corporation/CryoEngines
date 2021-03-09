@@ -1,3 +1,13 @@
+v2.0.1
+------
+- Updated Russian translation by r4ndom
+- Adjusted some engine core effects to look better
+- Zeroed Harrier thrust transforms
+- Updated Waterfall configurations to use new features from Waterfall 0.6.0 (thanks Zorg!)
+- Updated LFO extras patch to handle methalox engines 
+- Added new CryoEngines NFLV patch
+ - Converts Cougar, Lynx to use LH2/LF/O and LH2/O when installed
+
 v2.0.0
 ------
 - Updated DeployableEngines to 1.3.0
