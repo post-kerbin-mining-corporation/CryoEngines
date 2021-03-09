@@ -1,7 +1,9 @@
 v2.0.1
 ------
+- Updated Russian translation by r4ndom
+- Adjusted some engine core effects to look better
 - Zeroed Harrier thrust transforms
-- Updated Waterfall configurations to use new features from Waterfall 0.6.0
+- Updated Waterfall configurations to use new features from Waterfall 0.6.0 (thanks Zorg!)
 - Updated LFO extras patch to handle methalox engines 
 
 v2.0.0
