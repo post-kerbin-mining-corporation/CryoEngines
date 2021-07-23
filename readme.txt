@@ -1,5 +1,5 @@
 ========================
-CRYOGENIC ENGINES v2.0.1
+CRYOGENIC ENGINES v2.0.2
 ========================
 
 This is a pack with several new liquid fuel engines that run on Liquid Hydrogen and Oxidizer or Liquid Methane and Oxidizer. Liquid Hydrogen is a messy fuel that leaks out of most tanks (slowly) and takes up a lot of space compared to stock Liquid Fuel. However engines using it have the highest possible chemical specific impulse, so it can be quite useful. Liquid Methane is a middle of the road fuel that has a volume between Liquid Fuel and Liquid Hydrogen. It still leaks, but not as fast. In all cases, leakage can be countered by using a modest amount of power. 
@@ -10,12 +10,12 @@ DEPENDENCIES
 ============
 
 Required:
-- B9PartSwitch (2.17.0)
+- B9PartSwitch (2.18.0)
 - Community Resource Pack (1.4.2)
 - ModuleManager (v4.1.4)
-- Deployable Engines (1.3.0)
-- DynamicBatteryStorage (2.2.2)
-- CryoTanks (1.6.0)
+- Deployable Engines (1.3.1)
+- DynamicBatteryStorage (2.2.4)
+- CryoTanks (1.6.1)
 
 Optional
 - Community Tech Tree (v3.0+)
@@ -37,6 +37,7 @@ Some extra patches are bundled that you can use to tweak your installation. To i
 CryoEnginesLFO: Converts engines to use LF/O instead of LCH4/O or LH2/O at the cost of some Isp
 CryoEnginesNFAero: Surface attach all engines
 CryoEnginesRestock: Converts ReStock and Restock+ engines that 'should' be cryogenic to cryogenics
+CryoEnginesNFLV: Adjusts the RD-701 and RD-704 analogue engines in NFLV to use LF+LH2+Ox and LH2/Ox modes
 
 =======
 KSP-AVC
