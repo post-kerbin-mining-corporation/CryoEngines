@@ -1,3 +1,10 @@
+v2.0.3
+------
+- Fixed compression format for some engine textures
+- Fixed Prometheus nozzle collider not moving with gimbal
+- Inspected and adjusted thrust transform centres for all engines, some fixes made
+- Inspected and adjusted surface attach colliders for all engines, some fixes made
+
 v2.0.2
 ------
 - KSP 1.12
