@@ -3,6 +3,7 @@ v2.0.4
 - Updated ModuleManager to 4.2.1
 - Updated DynamicBatteryStorage to 2.2.5
 - Fixed one of Tharsis' engine thrust points not moving with gimbal
+- Update Chinese translation (TerrestrisYE)
 
 v2.0.3
 ------
