@@ -1,3 +1,16 @@
+v2.0.5
+------
+- Repacked 2.0.4
+- Updated CryoTanks to 1.6.3
+- Fixed seam on Tharsis/Pavonis engine glows
+
+v2.0.4
+------
+- Updated ModuleManager to 4.2.1
+- Updated DynamicBatteryStorage to 2.2.5
+- Fixed one of Tharsis' engine thrust points not moving with gimbal
+- Update Chinese translation (TerrestrisYE)
+
 v2.0.3
 ------
 - Fixed compression format for some engine textures
