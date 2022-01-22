@@ -1,3 +1,8 @@
+v2.0.6
+------
+- Updated CryoTanks to 1.6.4
+- Fixed VAB on-ness of Tharsis/Pavonis glows    
+
 v2.0.5
 ------
 - Repacked 2.0.4
