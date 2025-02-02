@@ -1,3 +1,10 @@
+v2.0.8
+------
+- Removed Deinonychus and Eagle engines
+ - They are soft-deprecated so crafts in flight will not be affected. 
+ - The reasons for doing this should be evident. 
+ - They may be replaced in the future by different models. 
+
 v2.0.7
 ------
 - Updated CryoTanks to 1.6.6
